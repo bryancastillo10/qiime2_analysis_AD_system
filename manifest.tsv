@@ -1,0 +1,7 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+DRR317292	$PWD/raw/DRR317292_1.fastq.gz	$PWD/raw/DRR317292_2.fastq.gz
+DRR317293	$PWD/raw/DRR317293_1.fastq.gz	$PWD/raw/DRR317293_2.fastq.gz
+DRR317294	$PWD/raw/DRR317294_1.fastq.gz	$PWD/raw/DRR317294_2.fastq.gz
+DRR317295	$PWD/raw/DRR317295_1.fastq.gz	$PWD/raw/DRR317295_2.fastq.gz
+DRR317296	$PWD/raw/DRR317296_1.fastq.gz	$PWD/raw/DRR317296_2.fastq.gz
+DRR317297	$PWD/raw/DRR317297_1.fastq.gz	$PWD/raw/DRR317297_2.fastq.gz

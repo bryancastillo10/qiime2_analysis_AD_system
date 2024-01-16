@@ -1,0 +1,17 @@
+/fetch_sra
+/raw
+
+
+#Inputs 
+/ad_metagenome_manifest.csv
+/ad_metagenome_manifest.tsv
+/sample_id_list.txt
+
+# QIIME2 Outputs
+/output
+/gg-13-8-99-nb-classifier.qza
+/gg_2022_10_backbone_full_length.nb.qza
+
+# Dokdo API for qzv file visualization
+/dokdo
+/test.csv
